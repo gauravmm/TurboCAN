@@ -14,7 +14,6 @@ BAT42W ,D4,D_SOD-123,C8598
 LED_Red ,D5,LED_0603_1608Metric,C2286
 LED_Green ,D6,LED_0603_1608Metric,C72043
 MountingHole ,"H1,H2,H3,H4",MountingHole_3.2mm_M3_DIN965_Pad,
-USB_C_Receptacle_USB2.0 ,J1,USB_C_Receptacle_HRO_TYPE-C-31-M-12,
 STEPPER ,J2,JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical,
 DEBUG ,J5,PinHeader_2x03_P2.54mm_Vertical,
 ENDSTOPX ,J7,JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,
